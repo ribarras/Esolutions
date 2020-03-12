@@ -1,0 +1,1 @@
+<?php echo "<html><head></head><body><meta http-equiv='REFRESH' content='0 ; url=login/'></body></html>"; ?>

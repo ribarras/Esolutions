@@ -1,0 +1,1 @@
+<?php include 'head.php'; require("recu/function.php"); $objModelo = new Formulario(); $objModelo->RecuContrasena(); include 'foot.php'; ?>
